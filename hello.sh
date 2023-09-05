@@ -1,5 +1,5 @@
-this is feturec file 
+this is fetureB file 
 
 this is devops training
 
-this is updated featueC hello.sh
+this is updated featureB hello.sh
