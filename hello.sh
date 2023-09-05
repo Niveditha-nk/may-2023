@@ -5,4 +5,7 @@ this is devops training
 this is changing from local app
 this is updated featureB hello.sh
 
-this line added to raise conflict 
+this line added to raise conflict
+
+changes after V1
+
